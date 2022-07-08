@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "Daemory",
+    "name": "외형 추가",
+    "authors": [ "Morang" ],
+    "maintainers": [ "Morang" ],
+    "description": "외형 추가.",
+    "category": "misc_additions",
+    "dependencies": [ "dda" ]
+  }
+]
