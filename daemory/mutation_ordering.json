@@ -1,0 +1,22 @@
+[
+  {
+    "type": "overlay_order",
+    "overlay_ordering": [
+      {
+        "id": [
+          "hair_black_jap",
+          "hair_black_five",
+          "hair_white_five",
+          "hair_black_back"
+        ],
+        "order": 1600
+      },
+      {
+        "id": [
+          "skin_lilight"
+        ],
+        "order": 1100
+      }
+    ]
+  }
+]

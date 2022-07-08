@@ -1,0 +1,66 @@
+[
+  {
+    "id": "hair_black_jap",
+    "type": "mutation",
+    "name": { "str": "머리: 느끼" },
+    "description": "느끼할 것 같은 머리스타일입니다.",
+    "points": 0,
+    "starting_trait": true,
+    "valid": false,
+    "player_display": false,
+    "vanity": true,
+    "flags": [ "hair_black", "hair_jap" ],
+    "types": [ "hair_style" ]
+  },
+  {
+    "id": "hair_black_five",
+    "type": "mutation",
+    "name": { "str": "머리: 검은 가르마" },
+    "description": "검은 가르마펌 스타일입니다.",
+    "points": 0,
+    "starting_trait": true,
+    "valid": false,
+    "player_display": false,
+    "vanity": true,
+    "flags": [ "hair_black", "hair_five" ],
+    "types": [ "hair_style" ]
+  },
+  {
+    "id": "hair_white_five",
+    "type": "mutation",
+    "name": { "str": "머리: 흰색 가르마" },
+    "description": "흰색 가르마펌 스타일입니다.",
+    "points": 0,
+    "starting_trait": true,
+    "valid": false,
+    "player_display": false,
+    "vanity": true,
+    "flags": [ "hair_white", "hair_five" ],
+    "types": [ "hair_style" ]
+  },
+  {
+    "id": "hair_black_back",
+    "type": "mutation",
+    "name": { "str": "머리: 검은 올백" },
+    "description": "양 옆은 밀고 앞머리는 뒤로 넘겼습니다.",
+    "points": 0,
+    "starting_trait": true,
+    "valid": false,
+    "player_display": false,
+    "vanity": true,
+    "flags": [ "hair_black", "hair_back" ],
+    "types": [ "hair_style" ]
+  },
+  {
+    "id": "skin_lilight",
+    "type": "mutation",
+    "name": { "str": "피부색: 아주 밝음" },
+    "description": "하얗습니다.",
+    "points": 0,
+    "starting_trait": true,
+    "valid": false,
+    "player_display": false,
+    "purifiable": false,
+    "types": [ "skin_tone" ]
+  }
+]
