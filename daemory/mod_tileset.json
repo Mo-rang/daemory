@@ -1,0 +1,50 @@
+[
+  {
+    "type": "mod_tileset",
+    "compatibility": [
+      "Chibi_Ultica",
+      "MshockXottoplus",
+      "UNDEAD_PEOPLE",
+      "UNDEAD_PEOPLE_BASE",
+      "UNDEAD_PEOPLE_LEGACY",
+      "UlticaShell",
+      "MshockXottoplus12",
+      "MSX++DEAD_PEOPLE",
+      "MXplus12_for_cosmetics",
+      "MSXotto+"
+    ],
+    "tiles-new": [
+      {
+        "file": "Daemory.png",
+        "tiles": [
+          { "id": "overlay_male_mutation_eye_color_var_brown", "fg": 1, "rotates": false },
+          { "id": "overlay_female_mutation_forehair10black", "fg": 2, "rotates": false },
+          { "id": "overlay_male_mutation_forehair10blond", "fg": 3, "rotates": false },
+          { "id": "overlay_female_mutation_forehair10blond", "fg": 4, "rotates": false },
+          { "id": "overlay_male_mutation_forehair10brown", "fg": 5, "rotates": false },
+          { "id": "overlay_female_mutation_forehair10brown", "fg": 6, "rotates": false },
+          { "id": "overlay_male_mutation_forehair10gray", "fg": 7, "rotates": false },
+          { "id": "overlay_female_mutation_forehair10gray", "fg": 8, "rotates": false },
+          { "id": "overlay_male_mutation_forehair10pink", "fg": 9, "rotates": false },
+          { "id": "overlay_female_mutation_forehair10pink", "fg": 10, "rotates": false },
+          { "id": "overlay_male_mutation_forehair10red", "fg": 11, "rotates": false },
+          { "id": "overlay_female_mutation_forehair10red", "fg": 12, "rotates": false },
+          { "id": "overlay_male_mutation_forehair10white", "fg": 13, "rotates": false },
+          { "id": "overlay_female_mutation_forehair10white", "fg": 14, "rotates": false },
+          { "id": "overlay_male_mutation_forehair1black", "fg": 15, "rotates": false },
+          { "id": "overlay_female_mutation_forehair1black", "fg": 16, "rotates": false },
+          { "id": "overlay_male_mutation_hair_black_jap", "fg": 17, "rotates": false },
+          { "id": "overlay_male_mutation_hair_black_five", "fg": 18, "rotates": false },
+          { "id": "overlay_male_mutation_hair_white_five", "fg": 19, "rotates": false },
+          { "id": "overlay_male_mutation_hair_black_back", "fg": 20, "rotates": false },
+          { "id": "overlay_male_mutation_skin_lilight", "fg": 21, "rotates": false }
+        ],
+        "//": "range 1 to 320",
+        "sprite_width": 32,
+        "sprite_height": 32,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": 0
+      }
+    ]
+  }
+]
