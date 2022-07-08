@@ -16,6 +16,12 @@
           "skin_lilight"
         ],
         "order": 1100
+      },
+      {
+        "id" [
+          "eye_color"
+        ],
+        "order": 1002
       }
     ]
   }
