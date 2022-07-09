@@ -60,7 +60,7 @@
     "starting_trait": true,
     "valid": false,
     "player_display": false,
-    "purifiable": false,
+    "vanity": true,
     "types": [ "skin_tone" ]
   }
 ]
