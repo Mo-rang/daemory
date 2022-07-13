@@ -1,0 +1,8 @@
+[
+  {
+    "type": "TRAIT_MIGRATION",
+    "id": "eye_red",
+    "trait": "eye_color",
+    "variant": "red"
+  }
+]
