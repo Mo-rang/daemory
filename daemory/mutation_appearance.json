@@ -62,13 +62,5 @@
     "player_display": false,
     "vanity": true,
     "types": [ "skin_tone" ]
-  },
-  {
-    "id": "eye_color",
-    "copy-from": "eye_color",
-    "type": "mutation",
-    "name": { "str": "Eye color" },
-    "description": "You have eyes.",
-    "extend": { "variants": [ "id": "red", "name": { "str": "눈동자: 붉은색" }, "description": "당신의 눈은 붉은색입니다.", "weight": 1 ] }
   }
 ]
